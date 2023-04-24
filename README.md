@@ -9,3 +9,4 @@ This repository is a collection of source code to the articles I've written for 
 3.  [Next.js getInitialProps](https://www.geeksforgeeks.org/next-js-getinitialprops/)
 4.  [How to specify height to fit-content with Tailwind CSS ?](https://www.geeksforgeeks.org/how-to-specify-height-to-fit-content-with-tailwind-css/)
 5.  [How to use template literals in Tailwind CSS to change classes dynamically ?](https://www.geeksforgeeks.org/how-to-use-template-literals-in-tailwind-css-to-change-classes-dynamically/)
+6.  [Next.js Data Fetching](https://www.geeksforgeeks.org/next-js-data-fetching/)
